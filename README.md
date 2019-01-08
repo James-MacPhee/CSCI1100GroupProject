@@ -1,2 +1,3 @@
-# CSCI1100GroupProject
-This is the group project for our very first computer science course at Dalhousie.
+# MathGames
+This is the repo for CSCI 1100
+James MacPhee
