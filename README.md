@@ -6,4 +6,5 @@ Contributors
 - Matt Peachey
 - Sean O
 
-This project while small was a fundamental stepping stone to our knowledge as computer scientists.  We had learned about Java from a basic standpoint and this project allowed us to use methods for the very first time.
+Although this project was small, it was a fundamental stepping stone to our knowledge as computer scientists.  
+We had learned about Java from a basic standpoint and this project allowed us to use methods for the very first time.
